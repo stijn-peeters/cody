@@ -131,7 +131,7 @@ export default function Home() {
               />
             </div>
             <div className="md:w-1/2 flex items-center p-8">
-              <p className="text-md text-right">
+              <p className="text-md md:text-right">
                 As the clock ticked toward the appointed hour, urgency swelled
                 within him. He quickly gathered his gear, tossing aside the case
                 files that had cluttered his desk and the half-finished
